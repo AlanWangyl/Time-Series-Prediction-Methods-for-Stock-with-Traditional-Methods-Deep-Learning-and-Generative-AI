@@ -36,7 +36,7 @@ TCN: Temporal Convolutional Networks
 
 DeepAR: Deep Autoregressive Models
 
-Ongoing Updates
+## Ongoing Updates
 
 The results will be updated monthly. Additionally, I plan to include more state-of-the-art (SOTA) time series models, especially those developed after the COVID-19 pandemic, to further enhance prediction accuracy.
 
