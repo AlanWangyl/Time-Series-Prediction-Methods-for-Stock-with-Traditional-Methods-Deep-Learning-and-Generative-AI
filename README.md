@@ -8,7 +8,7 @@ Note: This project is for educational purposes only and should not be interprete
 
 The historical S&P 500 index data used in this project is sourced from Kaggle's S&P 500 dataset. The address is https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks. For convenience, the data is also available for download on my personal website. The dataset covers the period up to September 9, 2024.
 
-## Models Used
+## Time Series Models Used
 
 The following models have been implemented in this project:
 
